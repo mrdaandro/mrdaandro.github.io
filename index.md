@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
-
+* 1
+* 2
 ```markdown
 Syntax highlighted code block
 
